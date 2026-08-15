@@ -1,4 +1,4 @@
-cat > README.md <<'EOF'
+
 # Optimized Shift Register Design Using Reversible Logic
 
 A Verilog HDL implementation and functional verification of reversible sequential circuits based on the architecture described in **"Optimized Shift Register Design Using Reversible Logic."**
